@@ -15,3 +15,6 @@ http://www.codeskulptor.org/#user30_H89n5xQ040_1.py
 
 Memory  
 http://www.codeskulptor.org/#user31_qJlD5i0OGL_7.py
+
+Blackjack
+http://www.codeskulptor.org/#user31_DGKeI8PTvU_9.py
